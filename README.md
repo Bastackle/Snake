@@ -1,1 +1,2 @@
-# Project: Lite : Fundamental Web Dev with HTML5 & CSS3
+# Project: Lite
+Fundamental Web Dev with HTML5 & CSS3
